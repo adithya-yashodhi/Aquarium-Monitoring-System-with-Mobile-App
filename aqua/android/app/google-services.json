@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "743081391991",
+    "project_id": "aquarium-d2824",
+    "storage_bucket": "aquarium-d2824.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743081391991:android:ced8e19f7cd2e20e59d372",
+        "android_client_info": {
+          "package_name": "com.example.aqua"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDreodjD2Kvq4iEs-cli4qM_2U0RmD6u4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
