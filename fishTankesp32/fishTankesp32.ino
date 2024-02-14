@@ -11,11 +11,9 @@ const int waterLevelPin = 34;
 OneWire oneWire(tempSensorPin); // Setup DS18B20 sensor
 DallasTemperature sensors(&oneWire);
 
-#define _SSID "HUAWEIkv"
-#define _PASSWORD "vidu1212"
-#define REFERENCE_URL "https://aquarium-d2824-default-rtdb.firebaseio.com/"
-//#define FIREBASE_HOST "aquarium-d2824-default-rtdb.firebaseio.com"
-
+#define _SSID "Your_WIFI_NAME"
+#define _PASSWORD "YOUR_WIFI_PASSWORD"
+#define REFERENCE_URL "FIREBASE_PROJECT_URL"
 
 Firebase firebase(REFERENCE_URL);
 
